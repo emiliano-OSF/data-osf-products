@@ -41,6 +41,12 @@
       "name": "CH445 Wing Chair on SUITE NY",
       "price": 330.55,
       "url": "../assets/img/products/prod-7.png"
+    },
+    {
+      "id": 8,
+      "name": "Beautiful black MUG - Cucci Mave",
+      "price": 20.49,
+      "url": "../assets/img/products/prod-8.png"
     }
   ]
 }
