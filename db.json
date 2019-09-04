@@ -48,5 +48,25 @@
       "price": 20.49,
       "url": "../assets/img/products/prod-8.png"
     }
+  ],
+  "cloud-solutions-items": [
+    {
+      "id": 1,
+      "title": "Control and manage any device with cloud solutions",
+      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 2,
+      "title": "Control and manage any device with cloud solutions",
+      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
+      "url": "../../assets/img/home/768/prod_02.png"
+    },
+    {
+      "id": 3,
+      "title": "Control and manage any device with cloud solutions",
+      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
+      "url": "../../assets/img/home/768/prod_03.png"
+    }
   ]
 }
