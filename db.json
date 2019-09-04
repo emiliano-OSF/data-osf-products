@@ -49,24 +49,72 @@
       "url": "../assets/img/products/prod-8.png"
     }
   ],
-  "cloud-solutions-items": [
+  "featured-products": [
     {
       "id": 1,
-      "title": "Control and manage any device with cloud solutions",
-      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Awesome",
       "url": "../../assets/img/home/768/prod_01.png"
     },
     {
       "id": 2,
-      "title": "Control and manage any device with cloud solutions",
-      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
-      "url": "../../assets/img/home/768/prod_02.png"
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Marketing",
+      "url": "../../assets/img/home/768/prod_01.png"
     },
     {
-      "id": 3,
-      "title": "Control and manage any device with cloud solutions",
-      "text": "Improve business peformanceand the user experience with the right mix of IoT technology and processes.",
-      "url": "../../assets/img/home/768/prod_03.png"
+      "id":3,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Sales",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 4,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Awesome",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 5,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Marketing",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 6,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Business",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 7,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Logistics",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 8,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Awesome",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 9,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Projects",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 10,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Management",
+      "url": "../../assets/img/home/768/prod_01.png"
+    },
+    {
+      "id": 11,
+      "title": "Kristina Dam Oak Table With White Marble",
+      "category": "Sales",
+      "url": "../../assets/img/home/768/prod_01.png"
     }
   ]
 }
